@@ -1,0 +1,36 @@
+.book-list {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.book-card {
+  display: flex;
+  align-items: center;
+  background: #fff7f7;
+  border-radius: 15px;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.book-card img {
+  width: 120px;
+  height: auto;
+  border-radius: 10px;
+  margin-right: 1rem;
+}
+
+.book-info {
+  text-align: left;
+}
+
+.book-info h2 {
+  margin: 0.2rem 0;
+  color: #e48fb8;
+}
+
+.book-info p {
+  margin: 0.3rem 0;
+}
